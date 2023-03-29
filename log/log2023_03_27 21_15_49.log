@@ -1,0 +1,3 @@
+2023-03-27 21:15:53,636 INFO [root] [base.py (__init__:12] - 初始化driver：<selenium.webdriver.edge.webdriver.WebDriver (session="9976dd78fdfbbcb64aa3eddce4f7f930")>
+2023-03-27 21:15:53,636 INFO [root] [base.py (base_click:30] - 点击元素：('partial link text', '登录')
+2023-03-27 21:15:53,636 INFO [root] [base.py (base_find_element:17] - 正在查找元素：('partial link text', '登录')
